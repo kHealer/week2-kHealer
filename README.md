@@ -1,6 +1,6 @@
 # oop_movie_system
-
-A new Flutter project.
+![emp1](https://user-images.githubusercontent.com/95585412/202913884-5e46d012-5384-4dbf-8595-d42c9bde05ee.png)
+![emp2](https://user-images.githubusercontent.com/95585412/202913887-15a05d5a-4efd-4a37-aa5a-4dd4ae0a57b0.png)
 
 ## Getting Started
 
